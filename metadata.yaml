@@ -1,0 +1,33 @@
+_repo: Handbuch-der-Geschichte-der-Buchdruckerkunst-Erster-Teil-Erfindung-Verbreitung-Blute-Verfall-__68395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lorck, Carl Berendt
+    alias: Lorck, Carl B. (Carl Berendt)
+    birthdate: 1814
+    deathdate: 1905
+    gutenberg_agent_id: '51173'
+    url: http://www.gutenberg.org/2009/agents/51173
+    wikipedia: https://de.wikipedia.org/wiki/Carl_Berendt_Lorck
+description: ''
+gutenberg_issued: '2022-06-24'
+identifiers:
+  gutenberg: '68395'
+language: de
+pgterms:marc905: 20161129103102lorck
+pgterms:marc906: '1882'
+pgterms:marc907: de
+production_note: Peter Becker, Franz L Kuhlmann and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: Germany :Verlag von J. J. Weber,1882.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- History'
+- !lcc 'Z'
+- GITenberg
+title: "Handbuch der Geschichte der Buchdruckerkunst. Erster Teil\r\nErfindung. Verbreitung.\
+  \ Blüte. Verfall. 1450-1750."
+url: http://www.gutenberg.org/ebooks/68395
